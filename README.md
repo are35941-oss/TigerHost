@@ -42,7 +42,8 @@ TigerHost Panel is a modern, lightweight, blazing-fast Minecraft server hosting 
 
 Run this command on your clean **Ubuntu (20.04/22.04/24.04)** or **Debian (11/12)** VPS:
 
-```curl -sSL [https://raw.githubusercontent.com/are35941-oss/TigerHost/refs/heads/main/install.sh](https://raw.githubusercontent.com/are35941-oss/TigerHost/refs/heads/main/install.sh) | bash
+```bash
+curl -sSL [https://raw.githubusercontent.com/are35941-oss/TigerHost/refs/heads/main/install.sh](https://raw.githubusercontent.com/are35941-oss/TigerHost/refs/heads/main/install.sh) | bash
 ```
 
 The script will automatically:
